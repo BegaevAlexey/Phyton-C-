@@ -1,0 +1,31 @@
+#1 Mode: 1
+First name.....Alexey    
+Last name......Begaev    
+Job............Engeneer  
+
+#2 Mode: 2
+First name.....Andrey    
+Last name......Kulagin   
+Job............Engeneer  
+In charge of...6         
+
+#3 Mode: 3
+First name.....Dmitriy   
+Last name......Gerasimov 
+Job............IUR       
+Reports to.....Okulov    
+
+#4 Mode: 4
+First name.....Maxim     
+Last name......Rumyancev 
+Job............NS        
+In charge of...10        
+Reports to     Okulov    
+
+#5 Mode: 4
+First name.....Igor      
+Last name......Okulov    
+Job............NSU       
+In charge of...13        
+Reports to     Mashetov  
+
